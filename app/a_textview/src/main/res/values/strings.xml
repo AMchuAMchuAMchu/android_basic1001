@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A_textview</string>
+    <string name="tv_1001">诗乃,黑卡蒂</string>
+    <string name="tv_color_01">雪之下雪乃</string>
+    <string name="tv_color_02">亚丝娜</string>
+    <string name="tv_color_03">结城明日奈</string>
+    <string name="tv_color_04_bg">朝田诗乃</string>
+    <string name="tv_color_05_bg">椎名真白</string>
+</resources>
